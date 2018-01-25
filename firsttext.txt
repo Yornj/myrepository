@@ -2,4 +2,4 @@ this is my first repository
 second line in firsttext
 second line in the file text
 third line in the file text
-add new line in the master branch
+add new line in the master and update branch
