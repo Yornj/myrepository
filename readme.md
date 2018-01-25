@@ -13,7 +13,12 @@
 2. an ordered
 3. list
 4. my goal in year 2018 is to complete Unix workbench coruse asap
+5. I suppose this course will end soon
+6. tha
+7. tha
+8. sss
 =======
+
 *in the star*
 **in the double star**
 >>>>>>> adc3508ff4eb34a1d46dbfb7d226cdcdec7eee2d
