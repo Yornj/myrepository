@@ -1,2 +1,4 @@
 this is my first repository
 second line in firsttext
+second line in the file text
+third line in the file text
